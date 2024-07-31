@@ -1,3 +1,4 @@
+package basics;
 public class primenum {
    // public static boolean isPrime(int n)
    // {

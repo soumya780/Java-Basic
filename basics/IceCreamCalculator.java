@@ -1,3 +1,4 @@
+package basics;
 import java.util.Scanner;
 public class IceCreamCalculator {
     public static int calculateIceCreamQuantity(int radius, int height) {

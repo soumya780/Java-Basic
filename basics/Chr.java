@@ -1,3 +1,4 @@
+package basics;
 public class Chr {
     public static void main(String args[])
     {

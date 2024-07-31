@@ -1,3 +1,4 @@
+package basics;
 import java.util.*;
 public class leap {
     public static void main(String args[])

@@ -1,3 +1,4 @@
+package basics;
 public class dowhilw {
     //DO while lstate ment.
     public static void main(String args[]) {
